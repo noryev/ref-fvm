@@ -54,4 +54,3 @@ blst = ["bls-signatures/blst"]
 pairing = ["bls-signatures/pairing"]
 testing = []
 arb = ["arbitrary"]
-
