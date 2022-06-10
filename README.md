@@ -13,7 +13,7 @@ This repository contains the reference implementation of the Filecoin VM ([specs
 
 ```sh
 $ git clone https://github.com/filecoin-project/ref-fvm.git
-$ cd fvm
+$ cd ref-fvm
 $ rustup target add wasm32-unknown-unknown
 $ make
 ```
