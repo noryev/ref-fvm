@@ -1,4 +1,4 @@
-# Reference Filecoin VM implementation (v1; RC)
+# Reference Filecoin VM implementation (v1; RC) Altered for GalaxyX
 
 [![Continuous integration](https://github.com/filecoin-project/fvm/actions/workflows/ci.yml/badge.svg)](https://github.com/filecoin-project/fvm/actions/workflows/ci.yml)
 
